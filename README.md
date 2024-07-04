@@ -7,4 +7,4 @@ This repository contains a script to create users and groups as specified in a t
 Run the script with the text file containing user information as the first argument.
 
 ```bash
-sudo ./create_users.sh user_data.txt
+sudo ./create_users.sh user.txt
